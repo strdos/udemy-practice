@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Excercises": {
+      "commandName": "Project",
+      "sqlDebugging": false
+    }
+  }
+}

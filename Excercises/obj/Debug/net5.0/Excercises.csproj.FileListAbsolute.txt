@@ -1,0 +1,16 @@
+C:\Users\strdo\source\repos\UdemyPractice\Excercises\obj\Debug\net5.0\Excercises.csproj.AssemblyReference.cache
+C:\Users\strdo\source\repos\UdemyPractice\Excercises\obj\Debug\net5.0\Excercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strdo\source\repos\UdemyPractice\Excercises\obj\Debug\net5.0\Excercises.AssemblyInfoInputs.cache
+C:\Users\strdo\source\repos\UdemyPractice\Excercises\obj\Debug\net5.0\Excercises.AssemblyInfo.cs
+C:\Users\strdo\source\repos\UdemyPractice\Excercises\obj\Debug\net5.0\Excercises.csproj.CoreCompileInputs.cache
+C:\Users\strdo\source\repos\UdemyPractice\Excercises\bin\Debug\net5.0\Excercises.exe
+C:\Users\strdo\source\repos\UdemyPractice\Excercises\bin\Debug\net5.0\Excercises.deps.json
+C:\Users\strdo\source\repos\UdemyPractice\Excercises\bin\Debug\net5.0\Excercises.runtimeconfig.json
+C:\Users\strdo\source\repos\UdemyPractice\Excercises\bin\Debug\net5.0\Excercises.runtimeconfig.dev.json
+C:\Users\strdo\source\repos\UdemyPractice\Excercises\bin\Debug\net5.0\Excercises.dll
+C:\Users\strdo\source\repos\UdemyPractice\Excercises\bin\Debug\net5.0\Excercises.pdb
+C:\Users\strdo\source\repos\UdemyPractice\Excercises\obj\Debug\net5.0\Excercises.dll
+C:\Users\strdo\source\repos\UdemyPractice\Excercises\obj\Debug\net5.0\refint\Excercises.dll
+C:\Users\strdo\source\repos\UdemyPractice\Excercises\obj\Debug\net5.0\Excercises.pdb
+C:\Users\strdo\source\repos\UdemyPractice\Excercises\obj\Debug\net5.0\Excercises.genruntimeconfig.cache
+C:\Users\strdo\source\repos\UdemyPractice\Excercises\obj\Debug\net5.0\ref\Excercises.dll

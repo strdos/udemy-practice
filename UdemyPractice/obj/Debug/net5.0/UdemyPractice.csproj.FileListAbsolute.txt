@@ -1,0 +1,16 @@
+C:\Users\strdo\source\repos\UdemyPractice\UdemyPractice\bin\Debug\net5.0\UdemyPractice.exe
+C:\Users\strdo\source\repos\UdemyPractice\UdemyPractice\bin\Debug\net5.0\UdemyPractice.deps.json
+C:\Users\strdo\source\repos\UdemyPractice\UdemyPractice\bin\Debug\net5.0\UdemyPractice.runtimeconfig.json
+C:\Users\strdo\source\repos\UdemyPractice\UdemyPractice\bin\Debug\net5.0\UdemyPractice.runtimeconfig.dev.json
+C:\Users\strdo\source\repos\UdemyPractice\UdemyPractice\bin\Debug\net5.0\UdemyPractice.dll
+C:\Users\strdo\source\repos\UdemyPractice\UdemyPractice\bin\Debug\net5.0\UdemyPractice.pdb
+C:\Users\strdo\source\repos\UdemyPractice\UdemyPractice\obj\Debug\net5.0\UdemyPractice.csproj.AssemblyReference.cache
+C:\Users\strdo\source\repos\UdemyPractice\UdemyPractice\obj\Debug\net5.0\UdemyPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strdo\source\repos\UdemyPractice\UdemyPractice\obj\Debug\net5.0\UdemyPractice.AssemblyInfoInputs.cache
+C:\Users\strdo\source\repos\UdemyPractice\UdemyPractice\obj\Debug\net5.0\UdemyPractice.AssemblyInfo.cs
+C:\Users\strdo\source\repos\UdemyPractice\UdemyPractice\obj\Debug\net5.0\UdemyPractice.csproj.CoreCompileInputs.cache
+C:\Users\strdo\source\repos\UdemyPractice\UdemyPractice\obj\Debug\net5.0\UdemyPractice.dll
+C:\Users\strdo\source\repos\UdemyPractice\UdemyPractice\obj\Debug\net5.0\refint\UdemyPractice.dll
+C:\Users\strdo\source\repos\UdemyPractice\UdemyPractice\obj\Debug\net5.0\UdemyPractice.pdb
+C:\Users\strdo\source\repos\UdemyPractice\UdemyPractice\obj\Debug\net5.0\UdemyPractice.genruntimeconfig.cache
+C:\Users\strdo\source\repos\UdemyPractice\UdemyPractice\obj\Debug\net5.0\ref\UdemyPractice.dll
