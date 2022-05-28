@@ -4,21 +4,19 @@ namespace UdemyPractice
 {
     internal class Program
     {
-
-        
+        public static string[] names = new string[] { "Alexey", "Yana", "Arina", "Steven", "Eva", "Anna", "Liza", "Michael", "Maya" };      
+        public static int numberOfFriends = 5;
 
         static void Main(string[] args)
         {
-            // Challenge - find 3 shortest names in an array
-            string[] names = new string[] { "Adam", "Baker", "Charles", "David", "Edgar", "Fred", "Giovanni", "Yu", "John" };
+            // Challenge - find 3 shortest names in an array            
+            if (names == null)
+                throw new ArgumentNullException("names", "Array 'Names' cannot be null.");
+            if (numberOfFriends > names.Length || numberOfFriends < 1)
+                throw new ArgumentOutOfRangeException("numberOfFriends", "Number of Friends cannot exceed number of names in the array and cannot be less than one.");
 
             ShortestNamesChallenge.SortArray(names);
-
-            for (int i = 0; i < 3; i++)
-            {
-                Console.WriteLine(names[i]);
-            }
-
+            ShortestNamesChallenge.PrintShortestNames(numberOfFriends);   
 
             //MakingDecisions.TemperatureCheck();
             #region ternary operator

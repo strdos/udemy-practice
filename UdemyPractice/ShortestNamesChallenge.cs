@@ -24,7 +24,13 @@ namespace UdemyPractice
                 }
             }
             return array;
-
+        }
+        public static void PrintShortestNames(int count)
+        {         
+            for (int i = 0; i < count; i++)
+            {
+                Console.WriteLine(Program.names[i]);
+            }
         }
     }
 }
