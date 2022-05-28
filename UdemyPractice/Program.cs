@@ -9,8 +9,18 @@ namespace UdemyPractice
 
         static void Main(string[] args)
         {
-            //MakingDecisions.TemperatureCheck();
+            // Challenge - find 3 shortest names in an array
+            string[] names = new string[] { "Adam", "Baker", "Charles", "David", "Edgar", "Fred", "Giovanni", "Yu", "John" };
 
+            ShortestNamesChallenge.SortArray(names);
+
+            for (int i = 0; i < 3; i++)
+            {
+                Console.WriteLine(names[i]);
+            }
+
+
+            //MakingDecisions.TemperatureCheck();
             #region ternary operator
             //// ternary operator
             //string stateOfMatter;

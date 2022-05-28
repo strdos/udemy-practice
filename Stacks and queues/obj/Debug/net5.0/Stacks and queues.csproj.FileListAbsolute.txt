@@ -1,0 +1,16 @@
+C:\Users\strdo\source\repos\UdemyPractice\Stacks and queues\bin\Debug\net5.0\Stacks and queues.exe
+C:\Users\strdo\source\repos\UdemyPractice\Stacks and queues\bin\Debug\net5.0\Stacks and queues.deps.json
+C:\Users\strdo\source\repos\UdemyPractice\Stacks and queues\bin\Debug\net5.0\Stacks and queues.runtimeconfig.json
+C:\Users\strdo\source\repos\UdemyPractice\Stacks and queues\bin\Debug\net5.0\Stacks and queues.runtimeconfig.dev.json
+C:\Users\strdo\source\repos\UdemyPractice\Stacks and queues\bin\Debug\net5.0\Stacks and queues.dll
+C:\Users\strdo\source\repos\UdemyPractice\Stacks and queues\bin\Debug\net5.0\Stacks and queues.pdb
+C:\Users\strdo\source\repos\UdemyPractice\Stacks and queues\obj\Debug\net5.0\Stacks and queues.csproj.AssemblyReference.cache
+C:\Users\strdo\source\repos\UdemyPractice\Stacks and queues\obj\Debug\net5.0\Stacks and queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strdo\source\repos\UdemyPractice\Stacks and queues\obj\Debug\net5.0\Stacks and queues.AssemblyInfoInputs.cache
+C:\Users\strdo\source\repos\UdemyPractice\Stacks and queues\obj\Debug\net5.0\Stacks and queues.AssemblyInfo.cs
+C:\Users\strdo\source\repos\UdemyPractice\Stacks and queues\obj\Debug\net5.0\Stacks and queues.csproj.CoreCompileInputs.cache
+C:\Users\strdo\source\repos\UdemyPractice\Stacks and queues\obj\Debug\net5.0\Stacks and queues.dll
+C:\Users\strdo\source\repos\UdemyPractice\Stacks and queues\obj\Debug\net5.0\refint\Stacks and queues.dll
+C:\Users\strdo\source\repos\UdemyPractice\Stacks and queues\obj\Debug\net5.0\Stacks and queues.pdb
+C:\Users\strdo\source\repos\UdemyPractice\Stacks and queues\obj\Debug\net5.0\Stacks and queues.genruntimeconfig.cache
+C:\Users\strdo\source\repos\UdemyPractice\Stacks and queues\obj\Debug\net5.0\ref\Stacks and queues.dll
