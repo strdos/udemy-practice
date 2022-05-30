@@ -1,6 +1,5 @@
 ﻿using System;
 using static Delegates.Geeks;
-using static Delegates.Program;
 
 namespace Delegates
 {

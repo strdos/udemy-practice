@@ -9,7 +9,7 @@ namespace Delegates
 
         public void add(int a, int b)
         {
-            Console.WriteLine($"{a} + {b} = {a+b}");
+            Console.WriteLine($"{a} + {b} = {a + b}");
         }
         public void subtract(int a, int b)
         {
