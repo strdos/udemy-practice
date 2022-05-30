@@ -1,0 +1,16 @@
+C:\Users\strdo\source\repos\UdemyPractice\Timers\bin\Debug\net5.0\Timers.exe
+C:\Users\strdo\source\repos\UdemyPractice\Timers\bin\Debug\net5.0\Timers.deps.json
+C:\Users\strdo\source\repos\UdemyPractice\Timers\bin\Debug\net5.0\Timers.runtimeconfig.json
+C:\Users\strdo\source\repos\UdemyPractice\Timers\bin\Debug\net5.0\Timers.runtimeconfig.dev.json
+C:\Users\strdo\source\repos\UdemyPractice\Timers\bin\Debug\net5.0\Timers.dll
+C:\Users\strdo\source\repos\UdemyPractice\Timers\bin\Debug\net5.0\Timers.pdb
+C:\Users\strdo\source\repos\UdemyPractice\Timers\obj\Debug\net5.0\Timers.csproj.AssemblyReference.cache
+C:\Users\strdo\source\repos\UdemyPractice\Timers\obj\Debug\net5.0\Timers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strdo\source\repos\UdemyPractice\Timers\obj\Debug\net5.0\Timers.AssemblyInfoInputs.cache
+C:\Users\strdo\source\repos\UdemyPractice\Timers\obj\Debug\net5.0\Timers.AssemblyInfo.cs
+C:\Users\strdo\source\repos\UdemyPractice\Timers\obj\Debug\net5.0\Timers.csproj.CoreCompileInputs.cache
+C:\Users\strdo\source\repos\UdemyPractice\Timers\obj\Debug\net5.0\Timers.dll
+C:\Users\strdo\source\repos\UdemyPractice\Timers\obj\Debug\net5.0\refint\Timers.dll
+C:\Users\strdo\source\repos\UdemyPractice\Timers\obj\Debug\net5.0\Timers.pdb
+C:\Users\strdo\source\repos\UdemyPractice\Timers\obj\Debug\net5.0\Timers.genruntimeconfig.cache
+C:\Users\strdo\source\repos\UdemyPractice\Timers\obj\Debug\net5.0\ref\Timers.dll
