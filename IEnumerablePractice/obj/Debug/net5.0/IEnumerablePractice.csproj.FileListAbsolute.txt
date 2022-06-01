@@ -1,0 +1,16 @@
+C:\Users\strdo\source\repos\UdemyPractice\IEnumerablePractice\bin\Debug\net5.0\IEnumerablePractice.exe
+C:\Users\strdo\source\repos\UdemyPractice\IEnumerablePractice\bin\Debug\net5.0\IEnumerablePractice.deps.json
+C:\Users\strdo\source\repos\UdemyPractice\IEnumerablePractice\bin\Debug\net5.0\IEnumerablePractice.runtimeconfig.json
+C:\Users\strdo\source\repos\UdemyPractice\IEnumerablePractice\bin\Debug\net5.0\IEnumerablePractice.runtimeconfig.dev.json
+C:\Users\strdo\source\repos\UdemyPractice\IEnumerablePractice\bin\Debug\net5.0\IEnumerablePractice.dll
+C:\Users\strdo\source\repos\UdemyPractice\IEnumerablePractice\bin\Debug\net5.0\IEnumerablePractice.pdb
+C:\Users\strdo\source\repos\UdemyPractice\IEnumerablePractice\obj\Debug\net5.0\IEnumerablePractice.csproj.AssemblyReference.cache
+C:\Users\strdo\source\repos\UdemyPractice\IEnumerablePractice\obj\Debug\net5.0\IEnumerablePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strdo\source\repos\UdemyPractice\IEnumerablePractice\obj\Debug\net5.0\IEnumerablePractice.AssemblyInfoInputs.cache
+C:\Users\strdo\source\repos\UdemyPractice\IEnumerablePractice\obj\Debug\net5.0\IEnumerablePractice.AssemblyInfo.cs
+C:\Users\strdo\source\repos\UdemyPractice\IEnumerablePractice\obj\Debug\net5.0\IEnumerablePractice.csproj.CoreCompileInputs.cache
+C:\Users\strdo\source\repos\UdemyPractice\IEnumerablePractice\obj\Debug\net5.0\IEnumerablePractice.dll
+C:\Users\strdo\source\repos\UdemyPractice\IEnumerablePractice\obj\Debug\net5.0\refint\IEnumerablePractice.dll
+C:\Users\strdo\source\repos\UdemyPractice\IEnumerablePractice\obj\Debug\net5.0\IEnumerablePractice.pdb
+C:\Users\strdo\source\repos\UdemyPractice\IEnumerablePractice\obj\Debug\net5.0\IEnumerablePractice.genruntimeconfig.cache
+C:\Users\strdo\source\repos\UdemyPractice\IEnumerablePractice\obj\Debug\net5.0\ref\IEnumerablePractice.dll
