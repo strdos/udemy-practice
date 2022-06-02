@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 
 namespace Polymorphism
 {
@@ -7,6 +8,42 @@ namespace Polymorphism
     {
         static void Main(string[] args)
         {
+            // write to file
+            string[] lines2 = { "first line", "second line", "third line" };
+            File.WriteAllLines(@"X:\textFile2.txt", lines2);
+            Console.WriteLine("Please name your file.");
+            string fileName = Console.ReadLine();
+            Console.WriteLine("Please enter your text.");
+            string input = Console.ReadLine();
+            File.WriteAllText(@"X:\" + fileName + ".txt", input);
+
+            using (StreamWriter file = new StreamWriter(@"X:\myStreamWriterfile.txt"))
+            {
+                foreach (string line in lines2)
+                {
+                    if (line.Contains("third"))
+                    {
+                        file.WriteLine(line);
+                    }
+                }
+            }
+
+            using (StreamWriter file = new StreamWriter(@"X:\myStreamWriterfile.txt", true))
+            {
+                file.WriteLine("This is an appended line.");
+            }
+
+
+                // read from a file, example 1
+                string text = System.IO.File.ReadAllText(@"C:\Users\strdo\Desktop\textFile.txt");
+            Console.WriteLine(text);
+            // example 2
+            string[] lines = System.IO.File.ReadAllLines(@"C:\Users\strdo\Desktop\textFile.txt");
+            foreach (var line in lines)
+            {
+                Console.WriteLine(line);
+            }
+
             // abstract class practice
             Cube cube = new Cube(5.45);
             Sphere sphere = new Sphere(3.44);
