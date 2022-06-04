@@ -1,0 +1,16 @@
+C:\Users\strdo\source\repos\UdemyPractice\AdvancedTopics\bin\Debug\net5.0\AdvancedTopics.exe
+C:\Users\strdo\source\repos\UdemyPractice\AdvancedTopics\bin\Debug\net5.0\AdvancedTopics.deps.json
+C:\Users\strdo\source\repos\UdemyPractice\AdvancedTopics\bin\Debug\net5.0\AdvancedTopics.runtimeconfig.json
+C:\Users\strdo\source\repos\UdemyPractice\AdvancedTopics\bin\Debug\net5.0\AdvancedTopics.runtimeconfig.dev.json
+C:\Users\strdo\source\repos\UdemyPractice\AdvancedTopics\bin\Debug\net5.0\AdvancedTopics.dll
+C:\Users\strdo\source\repos\UdemyPractice\AdvancedTopics\bin\Debug\net5.0\AdvancedTopics.pdb
+C:\Users\strdo\source\repos\UdemyPractice\AdvancedTopics\obj\Debug\net5.0\AdvancedTopics.csproj.AssemblyReference.cache
+C:\Users\strdo\source\repos\UdemyPractice\AdvancedTopics\obj\Debug\net5.0\AdvancedTopics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strdo\source\repos\UdemyPractice\AdvancedTopics\obj\Debug\net5.0\AdvancedTopics.AssemblyInfoInputs.cache
+C:\Users\strdo\source\repos\UdemyPractice\AdvancedTopics\obj\Debug\net5.0\AdvancedTopics.AssemblyInfo.cs
+C:\Users\strdo\source\repos\UdemyPractice\AdvancedTopics\obj\Debug\net5.0\AdvancedTopics.csproj.CoreCompileInputs.cache
+C:\Users\strdo\source\repos\UdemyPractice\AdvancedTopics\obj\Debug\net5.0\AdvancedTopics.dll
+C:\Users\strdo\source\repos\UdemyPractice\AdvancedTopics\obj\Debug\net5.0\refint\AdvancedTopics.dll
+C:\Users\strdo\source\repos\UdemyPractice\AdvancedTopics\obj\Debug\net5.0\AdvancedTopics.pdb
+C:\Users\strdo\source\repos\UdemyPractice\AdvancedTopics\obj\Debug\net5.0\AdvancedTopics.genruntimeconfig.cache
+C:\Users\strdo\source\repos\UdemyPractice\AdvancedTopics\obj\Debug\net5.0\ref\AdvancedTopics.dll
