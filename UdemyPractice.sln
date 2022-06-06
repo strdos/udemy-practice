@@ -39,7 +39,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism", "Polymorphis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment2", "Assignment2\Assignment2.csproj", "{C357CFE5-259B-4481-9BA7-6FF385F2A36B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedTopics", "AdvancedTopics\AdvancedTopics.csproj", "{DCB49293-2CA8-4EE6-B7E2-24B01E22501F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvancedTopics", "AdvancedTopics\AdvancedTopics.csproj", "{DCB49293-2CA8-4EE6-B7E2-24B01E22501F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularExpressions", "RegularExpressions\RegularExpressions.csproj", "{6DE247A5-308F-4909-A320-B53FD7BFC76A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{DCB49293-2CA8-4EE6-B7E2-24B01E22501F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCB49293-2CA8-4EE6-B7E2-24B01E22501F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCB49293-2CA8-4EE6-B7E2-24B01E22501F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DE247A5-308F-4909-A320-B53FD7BFC76A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE247A5-308F-4909-A320-B53FD7BFC76A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE247A5-308F-4909-A320-B53FD7BFC76A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE247A5-308F-4909-A320-B53FD7BFC76A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
