@@ -1,0 +1,16 @@
+C:\Users\strdo\source\repos\UdemyPractice\Nullables\bin\Debug\net5.0\Nullables.exe
+C:\Users\strdo\source\repos\UdemyPractice\Nullables\bin\Debug\net5.0\Nullables.deps.json
+C:\Users\strdo\source\repos\UdemyPractice\Nullables\bin\Debug\net5.0\Nullables.runtimeconfig.json
+C:\Users\strdo\source\repos\UdemyPractice\Nullables\bin\Debug\net5.0\Nullables.runtimeconfig.dev.json
+C:\Users\strdo\source\repos\UdemyPractice\Nullables\bin\Debug\net5.0\Nullables.dll
+C:\Users\strdo\source\repos\UdemyPractice\Nullables\bin\Debug\net5.0\Nullables.pdb
+C:\Users\strdo\source\repos\UdemyPractice\Nullables\obj\Debug\net5.0\Nullables.csproj.AssemblyReference.cache
+C:\Users\strdo\source\repos\UdemyPractice\Nullables\obj\Debug\net5.0\Nullables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strdo\source\repos\UdemyPractice\Nullables\obj\Debug\net5.0\Nullables.AssemblyInfoInputs.cache
+C:\Users\strdo\source\repos\UdemyPractice\Nullables\obj\Debug\net5.0\Nullables.AssemblyInfo.cs
+C:\Users\strdo\source\repos\UdemyPractice\Nullables\obj\Debug\net5.0\Nullables.csproj.CoreCompileInputs.cache
+C:\Users\strdo\source\repos\UdemyPractice\Nullables\obj\Debug\net5.0\Nullables.dll
+C:\Users\strdo\source\repos\UdemyPractice\Nullables\obj\Debug\net5.0\refint\Nullables.dll
+C:\Users\strdo\source\repos\UdemyPractice\Nullables\obj\Debug\net5.0\Nullables.pdb
+C:\Users\strdo\source\repos\UdemyPractice\Nullables\obj\Debug\net5.0\Nullables.genruntimeconfig.cache
+C:\Users\strdo\source\repos\UdemyPractice\Nullables\obj\Debug\net5.0\ref\Nullables.dll
