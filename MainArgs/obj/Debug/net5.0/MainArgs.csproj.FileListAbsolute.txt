@@ -1,0 +1,16 @@
+C:\Users\strdo\source\repos\UdemyPractice\MainArgs\bin\Debug\net5.0\MainArgs.exe
+C:\Users\strdo\source\repos\UdemyPractice\MainArgs\bin\Debug\net5.0\MainArgs.deps.json
+C:\Users\strdo\source\repos\UdemyPractice\MainArgs\bin\Debug\net5.0\MainArgs.runtimeconfig.json
+C:\Users\strdo\source\repos\UdemyPractice\MainArgs\bin\Debug\net5.0\MainArgs.runtimeconfig.dev.json
+C:\Users\strdo\source\repos\UdemyPractice\MainArgs\bin\Debug\net5.0\MainArgs.dll
+C:\Users\strdo\source\repos\UdemyPractice\MainArgs\bin\Debug\net5.0\MainArgs.pdb
+C:\Users\strdo\source\repos\UdemyPractice\MainArgs\obj\Debug\net5.0\MainArgs.csproj.AssemblyReference.cache
+C:\Users\strdo\source\repos\UdemyPractice\MainArgs\obj\Debug\net5.0\MainArgs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strdo\source\repos\UdemyPractice\MainArgs\obj\Debug\net5.0\MainArgs.AssemblyInfoInputs.cache
+C:\Users\strdo\source\repos\UdemyPractice\MainArgs\obj\Debug\net5.0\MainArgs.AssemblyInfo.cs
+C:\Users\strdo\source\repos\UdemyPractice\MainArgs\obj\Debug\net5.0\MainArgs.csproj.CoreCompileInputs.cache
+C:\Users\strdo\source\repos\UdemyPractice\MainArgs\obj\Debug\net5.0\MainArgs.dll
+C:\Users\strdo\source\repos\UdemyPractice\MainArgs\obj\Debug\net5.0\refint\MainArgs.dll
+C:\Users\strdo\source\repos\UdemyPractice\MainArgs\obj\Debug\net5.0\MainArgs.pdb
+C:\Users\strdo\source\repos\UdemyPractice\MainArgs\obj\Debug\net5.0\MainArgs.genruntimeconfig.cache
+C:\Users\strdo\source\repos\UdemyPractice\MainArgs\obj\Debug\net5.0\ref\MainArgs.dll
