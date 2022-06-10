@@ -1,0 +1,16 @@
+C:\Users\strdo\source\repos\UdemyPractice\DelegatesExercise\bin\Debug\net5.0\DelegatesExercise.exe
+C:\Users\strdo\source\repos\UdemyPractice\DelegatesExercise\bin\Debug\net5.0\DelegatesExercise.deps.json
+C:\Users\strdo\source\repos\UdemyPractice\DelegatesExercise\bin\Debug\net5.0\DelegatesExercise.runtimeconfig.json
+C:\Users\strdo\source\repos\UdemyPractice\DelegatesExercise\bin\Debug\net5.0\DelegatesExercise.runtimeconfig.dev.json
+C:\Users\strdo\source\repos\UdemyPractice\DelegatesExercise\bin\Debug\net5.0\DelegatesExercise.dll
+C:\Users\strdo\source\repos\UdemyPractice\DelegatesExercise\bin\Debug\net5.0\DelegatesExercise.pdb
+C:\Users\strdo\source\repos\UdemyPractice\DelegatesExercise\obj\Debug\net5.0\DelegatesExercise.csproj.AssemblyReference.cache
+C:\Users\strdo\source\repos\UdemyPractice\DelegatesExercise\obj\Debug\net5.0\DelegatesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strdo\source\repos\UdemyPractice\DelegatesExercise\obj\Debug\net5.0\DelegatesExercise.AssemblyInfoInputs.cache
+C:\Users\strdo\source\repos\UdemyPractice\DelegatesExercise\obj\Debug\net5.0\DelegatesExercise.AssemblyInfo.cs
+C:\Users\strdo\source\repos\UdemyPractice\DelegatesExercise\obj\Debug\net5.0\DelegatesExercise.csproj.CoreCompileInputs.cache
+C:\Users\strdo\source\repos\UdemyPractice\DelegatesExercise\obj\Debug\net5.0\DelegatesExercise.dll
+C:\Users\strdo\source\repos\UdemyPractice\DelegatesExercise\obj\Debug\net5.0\refint\DelegatesExercise.dll
+C:\Users\strdo\source\repos\UdemyPractice\DelegatesExercise\obj\Debug\net5.0\DelegatesExercise.pdb
+C:\Users\strdo\source\repos\UdemyPractice\DelegatesExercise\obj\Debug\net5.0\DelegatesExercise.genruntimeconfig.cache
+C:\Users\strdo\source\repos\UdemyPractice\DelegatesExercise\obj\Debug\net5.0\ref\DelegatesExercise.dll
