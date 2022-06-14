@@ -1,0 +1,16 @@
+C:\Users\strdo\source\repos\UdemyPractice\EventsAndMultiCastDelegates\bin\Debug\net5.0\EventsAndMultiCastDelegates.exe
+C:\Users\strdo\source\repos\UdemyPractice\EventsAndMultiCastDelegates\bin\Debug\net5.0\EventsAndMultiCastDelegates.deps.json
+C:\Users\strdo\source\repos\UdemyPractice\EventsAndMultiCastDelegates\bin\Debug\net5.0\EventsAndMultiCastDelegates.runtimeconfig.json
+C:\Users\strdo\source\repos\UdemyPractice\EventsAndMultiCastDelegates\bin\Debug\net5.0\EventsAndMultiCastDelegates.runtimeconfig.dev.json
+C:\Users\strdo\source\repos\UdemyPractice\EventsAndMultiCastDelegates\bin\Debug\net5.0\EventsAndMultiCastDelegates.dll
+C:\Users\strdo\source\repos\UdemyPractice\EventsAndMultiCastDelegates\bin\Debug\net5.0\EventsAndMultiCastDelegates.pdb
+C:\Users\strdo\source\repos\UdemyPractice\EventsAndMultiCastDelegates\obj\Debug\net5.0\EventsAndMultiCastDelegates.csproj.AssemblyReference.cache
+C:\Users\strdo\source\repos\UdemyPractice\EventsAndMultiCastDelegates\obj\Debug\net5.0\EventsAndMultiCastDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strdo\source\repos\UdemyPractice\EventsAndMultiCastDelegates\obj\Debug\net5.0\EventsAndMultiCastDelegates.AssemblyInfoInputs.cache
+C:\Users\strdo\source\repos\UdemyPractice\EventsAndMultiCastDelegates\obj\Debug\net5.0\EventsAndMultiCastDelegates.AssemblyInfo.cs
+C:\Users\strdo\source\repos\UdemyPractice\EventsAndMultiCastDelegates\obj\Debug\net5.0\EventsAndMultiCastDelegates.csproj.CoreCompileInputs.cache
+C:\Users\strdo\source\repos\UdemyPractice\EventsAndMultiCastDelegates\obj\Debug\net5.0\EventsAndMultiCastDelegates.dll
+C:\Users\strdo\source\repos\UdemyPractice\EventsAndMultiCastDelegates\obj\Debug\net5.0\refint\EventsAndMultiCastDelegates.dll
+C:\Users\strdo\source\repos\UdemyPractice\EventsAndMultiCastDelegates\obj\Debug\net5.0\EventsAndMultiCastDelegates.pdb
+C:\Users\strdo\source\repos\UdemyPractice\EventsAndMultiCastDelegates\obj\Debug\net5.0\EventsAndMultiCastDelegates.genruntimeconfig.cache
+C:\Users\strdo\source\repos\UdemyPractice\EventsAndMultiCastDelegates\obj\Debug\net5.0\ref\EventsAndMultiCastDelegates.dll
