@@ -53,9 +53,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegatesDemo", "DelegatesD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegatesExercise", "DelegatesExercise\DelegatesExercise.csproj", "{8DC99644-45CC-4FD3-B48E-4BFFD9172DF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsAndMultiCastDelegates", "EventsAndMultiCastDelegates\EventsAndMultiCastDelegates.csproj", "{7DD86053-C74A-418B-B2DB-A80E8F040CFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventsAndMultiCastDelegates", "EventsAndMultiCastDelegates\EventsAndMultiCastDelegates.csproj", "{7DD86053-C74A-418B-B2DB-A80E8F040CFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{54DB5E20-4B3B-450C-B659-6CA6C41ACD53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{54DB5E20-4B3B-450C-B659-6CA6C41ACD53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfGrid", "WpfGrid\WpfGrid.csproj", "{C559E100-AAD8-45AA-A6DE-B56D29A28C47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{54DB5E20-4B3B-450C-B659-6CA6C41ACD53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54DB5E20-4B3B-450C-B659-6CA6C41ACD53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54DB5E20-4B3B-450C-B659-6CA6C41ACD53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C559E100-AAD8-45AA-A6DE-B56D29A28C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C559E100-AAD8-45AA-A6DE-B56D29A28C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C559E100-AAD8-45AA-A6DE-B56D29A28C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C559E100-AAD8-45AA-A6DE-B56D29A28C47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
