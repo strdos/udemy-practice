@@ -1,0 +1,16 @@
+C:\Users\strdo\source\repos\UdemyPractice\WpfDependencyProperties\bin\Debug\WpfDependencyProperties.exe.config
+C:\Users\strdo\source\repos\UdemyPractice\WpfDependencyProperties\bin\Debug\WpfDependencyProperties.exe
+C:\Users\strdo\source\repos\UdemyPractice\WpfDependencyProperties\bin\Debug\WpfDependencyProperties.pdb
+C:\Users\strdo\source\repos\UdemyPractice\WpfDependencyProperties\obj\Debug\WpfDependencyProperties.csproj.AssemblyReference.cache
+C:\Users\strdo\source\repos\UdemyPractice\WpfDependencyProperties\obj\Debug\WpfDependencyProperties.csproj.SuggestedBindingRedirects.cache
+C:\Users\strdo\source\repos\UdemyPractice\WpfDependencyProperties\obj\Debug\MainWindow.g.cs
+C:\Users\strdo\source\repos\UdemyPractice\WpfDependencyProperties\obj\Debug\App.g.cs
+C:\Users\strdo\source\repos\UdemyPractice\WpfDependencyProperties\obj\Debug\WpfDependencyProperties_MarkupCompile.cache
+C:\Users\strdo\source\repos\UdemyPractice\WpfDependencyProperties\obj\Debug\WpfDependencyProperties_MarkupCompile.lref
+C:\Users\strdo\source\repos\UdemyPractice\WpfDependencyProperties\obj\Debug\MainWindow.baml
+C:\Users\strdo\source\repos\UdemyPractice\WpfDependencyProperties\obj\Debug\WpfDependencyProperties.g.resources
+C:\Users\strdo\source\repos\UdemyPractice\WpfDependencyProperties\obj\Debug\WpfDependencyProperties.Properties.Resources.resources
+C:\Users\strdo\source\repos\UdemyPractice\WpfDependencyProperties\obj\Debug\WpfDependencyProperties.csproj.GenerateResource.cache
+C:\Users\strdo\source\repos\UdemyPractice\WpfDependencyProperties\obj\Debug\WpfDependencyProperties.csproj.CoreCompileInputs.cache
+C:\Users\strdo\source\repos\UdemyPractice\WpfDependencyProperties\obj\Debug\WpfDependencyProperties.exe
+C:\Users\strdo\source\repos\UdemyPractice\WpfDependencyProperties\obj\Debug\WpfDependencyProperties.pdb

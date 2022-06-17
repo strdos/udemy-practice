@@ -1,0 +1,16 @@
+C:\Users\strdo\source\repos\UdemyPractice\WpfINotifyPropertyChanged\bin\Debug\WpfINotifyPropertyChanged.exe.config
+C:\Users\strdo\source\repos\UdemyPractice\WpfINotifyPropertyChanged\bin\Debug\WpfINotifyPropertyChanged.exe
+C:\Users\strdo\source\repos\UdemyPractice\WpfINotifyPropertyChanged\bin\Debug\WpfINotifyPropertyChanged.pdb
+C:\Users\strdo\source\repos\UdemyPractice\WpfINotifyPropertyChanged\obj\Debug\WpfINotifyPropertyChanged.csproj.AssemblyReference.cache
+C:\Users\strdo\source\repos\UdemyPractice\WpfINotifyPropertyChanged\obj\Debug\WpfINotifyPropertyChanged.csproj.SuggestedBindingRedirects.cache
+C:\Users\strdo\source\repos\UdemyPractice\WpfINotifyPropertyChanged\obj\Debug\MainWindow.g.cs
+C:\Users\strdo\source\repos\UdemyPractice\WpfINotifyPropertyChanged\obj\Debug\App.g.cs
+C:\Users\strdo\source\repos\UdemyPractice\WpfINotifyPropertyChanged\obj\Debug\WpfINotifyPropertyChanged_MarkupCompile.cache
+C:\Users\strdo\source\repos\UdemyPractice\WpfINotifyPropertyChanged\obj\Debug\WpfINotifyPropertyChanged_MarkupCompile.lref
+C:\Users\strdo\source\repos\UdemyPractice\WpfINotifyPropertyChanged\obj\Debug\MainWindow.baml
+C:\Users\strdo\source\repos\UdemyPractice\WpfINotifyPropertyChanged\obj\Debug\WpfINotifyPropertyChanged.g.resources
+C:\Users\strdo\source\repos\UdemyPractice\WpfINotifyPropertyChanged\obj\Debug\WpfINotifyPropertyChanged.Properties.Resources.resources
+C:\Users\strdo\source\repos\UdemyPractice\WpfINotifyPropertyChanged\obj\Debug\WpfINotifyPropertyChanged.csproj.GenerateResource.cache
+C:\Users\strdo\source\repos\UdemyPractice\WpfINotifyPropertyChanged\obj\Debug\WpfINotifyPropertyChanged.csproj.CoreCompileInputs.cache
+C:\Users\strdo\source\repos\UdemyPractice\WpfINotifyPropertyChanged\obj\Debug\WpfINotifyPropertyChanged.exe
+C:\Users\strdo\source\repos\UdemyPractice\WpfINotifyPropertyChanged\obj\Debug\WpfINotifyPropertyChanged.pdb
