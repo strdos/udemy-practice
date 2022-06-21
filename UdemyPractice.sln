@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfDataBinding", "WpfDataBi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfINotifyPropertyChanged", "WpfINotifyPropertyChanged\WpfINotifyPropertyChanged.csproj", "{D0A48CA4-5308-4AE2-84BE-F887219008FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfListBox", "WpfListBox\WpfListBox.csproj", "{C19B31EE-3A5D-4B44-A18D-7842F148FB94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{D0A48CA4-5308-4AE2-84BE-F887219008FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0A48CA4-5308-4AE2-84BE-F887219008FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0A48CA4-5308-4AE2-84BE-F887219008FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C19B31EE-3A5D-4B44-A18D-7842F148FB94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C19B31EE-3A5D-4B44-A18D-7842F148FB94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C19B31EE-3A5D-4B44-A18D-7842F148FB94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C19B31EE-3A5D-4B44-A18D-7842F148FB94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

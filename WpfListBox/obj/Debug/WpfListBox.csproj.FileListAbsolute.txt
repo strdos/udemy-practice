@@ -1,0 +1,16 @@
+C:\Users\strdo\source\repos\UdemyPractice\WpfListBox\bin\Debug\WpfListBox.exe.config
+C:\Users\strdo\source\repos\UdemyPractice\WpfListBox\bin\Debug\WpfListBox.exe
+C:\Users\strdo\source\repos\UdemyPractice\WpfListBox\bin\Debug\WpfListBox.pdb
+C:\Users\strdo\source\repos\UdemyPractice\WpfListBox\obj\Debug\WpfListBox.csproj.AssemblyReference.cache
+C:\Users\strdo\source\repos\UdemyPractice\WpfListBox\obj\Debug\WpfListBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\strdo\source\repos\UdemyPractice\WpfListBox\obj\Debug\MainWindow.g.cs
+C:\Users\strdo\source\repos\UdemyPractice\WpfListBox\obj\Debug\App.g.cs
+C:\Users\strdo\source\repos\UdemyPractice\WpfListBox\obj\Debug\WpfListBox_MarkupCompile.cache
+C:\Users\strdo\source\repos\UdemyPractice\WpfListBox\obj\Debug\WpfListBox_MarkupCompile.lref
+C:\Users\strdo\source\repos\UdemyPractice\WpfListBox\obj\Debug\MainWindow.baml
+C:\Users\strdo\source\repos\UdemyPractice\WpfListBox\obj\Debug\WpfListBox.g.resources
+C:\Users\strdo\source\repos\UdemyPractice\WpfListBox\obj\Debug\WpfListBox.Properties.Resources.resources
+C:\Users\strdo\source\repos\UdemyPractice\WpfListBox\obj\Debug\WpfListBox.csproj.GenerateResource.cache
+C:\Users\strdo\source\repos\UdemyPractice\WpfListBox\obj\Debug\WpfListBox.csproj.CoreCompileInputs.cache
+C:\Users\strdo\source\repos\UdemyPractice\WpfListBox\obj\Debug\WpfListBox.exe
+C:\Users\strdo\source\repos\UdemyPractice\WpfListBox\obj\Debug\WpfListBox.pdb
