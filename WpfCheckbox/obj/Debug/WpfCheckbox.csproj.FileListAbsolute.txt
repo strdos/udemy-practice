@@ -1,0 +1,16 @@
+C:\Users\strdo\source\repos\UdemyPractice\WpfCheckbox\bin\Debug\WpfCheckbox.exe.config
+C:\Users\strdo\source\repos\UdemyPractice\WpfCheckbox\bin\Debug\WpfCheckbox.exe
+C:\Users\strdo\source\repos\UdemyPractice\WpfCheckbox\bin\Debug\WpfCheckbox.pdb
+C:\Users\strdo\source\repos\UdemyPractice\WpfCheckbox\obj\Debug\WpfCheckbox.csproj.AssemblyReference.cache
+C:\Users\strdo\source\repos\UdemyPractice\WpfCheckbox\obj\Debug\WpfCheckbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\strdo\source\repos\UdemyPractice\WpfCheckbox\obj\Debug\MainWindow.g.cs
+C:\Users\strdo\source\repos\UdemyPractice\WpfCheckbox\obj\Debug\App.g.cs
+C:\Users\strdo\source\repos\UdemyPractice\WpfCheckbox\obj\Debug\WpfCheckbox_MarkupCompile.cache
+C:\Users\strdo\source\repos\UdemyPractice\WpfCheckbox\obj\Debug\WpfCheckbox_MarkupCompile.lref
+C:\Users\strdo\source\repos\UdemyPractice\WpfCheckbox\obj\Debug\MainWindow.baml
+C:\Users\strdo\source\repos\UdemyPractice\WpfCheckbox\obj\Debug\WpfCheckbox.g.resources
+C:\Users\strdo\source\repos\UdemyPractice\WpfCheckbox\obj\Debug\WpfCheckbox.Properties.Resources.resources
+C:\Users\strdo\source\repos\UdemyPractice\WpfCheckbox\obj\Debug\WpfCheckbox.csproj.GenerateResource.cache
+C:\Users\strdo\source\repos\UdemyPractice\WpfCheckbox\obj\Debug\WpfCheckbox.csproj.CoreCompileInputs.cache
+C:\Users\strdo\source\repos\UdemyPractice\WpfCheckbox\obj\Debug\WpfCheckbox.exe
+C:\Users\strdo\source\repos\UdemyPractice\WpfCheckbox\obj\Debug\WpfCheckbox.pdb
