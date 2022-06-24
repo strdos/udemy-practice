@@ -1,0 +1,16 @@
+C:\Users\strdo\source\repos\UdemyPractice\WpfZooManager\bin\Debug\WpfZooManager.exe.config
+C:\Users\strdo\source\repos\UdemyPractice\WpfZooManager\bin\Debug\WpfZooManager.exe
+C:\Users\strdo\source\repos\UdemyPractice\WpfZooManager\bin\Debug\WpfZooManager.pdb
+C:\Users\strdo\source\repos\UdemyPractice\WpfZooManager\obj\Debug\WpfZooManager.csproj.AssemblyReference.cache
+C:\Users\strdo\source\repos\UdemyPractice\WpfZooManager\obj\Debug\WpfZooManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\strdo\source\repos\UdemyPractice\WpfZooManager\obj\Debug\MainWindow.g.cs
+C:\Users\strdo\source\repos\UdemyPractice\WpfZooManager\obj\Debug\App.g.cs
+C:\Users\strdo\source\repos\UdemyPractice\WpfZooManager\obj\Debug\WpfZooManager_MarkupCompile.cache
+C:\Users\strdo\source\repos\UdemyPractice\WpfZooManager\obj\Debug\WpfZooManager_MarkupCompile.lref
+C:\Users\strdo\source\repos\UdemyPractice\WpfZooManager\obj\Debug\MainWindow.baml
+C:\Users\strdo\source\repos\UdemyPractice\WpfZooManager\obj\Debug\WpfZooManager.g.resources
+C:\Users\strdo\source\repos\UdemyPractice\WpfZooManager\obj\Debug\WpfZooManager.Properties.Resources.resources
+C:\Users\strdo\source\repos\UdemyPractice\WpfZooManager\obj\Debug\WpfZooManager.csproj.GenerateResource.cache
+C:\Users\strdo\source\repos\UdemyPractice\WpfZooManager\obj\Debug\WpfZooManager.csproj.CoreCompileInputs.cache
+C:\Users\strdo\source\repos\UdemyPractice\WpfZooManager\obj\Debug\WpfZooManager.exe
+C:\Users\strdo\source\repos\UdemyPractice\WpfZooManager\obj\Debug\WpfZooManager.pdb
