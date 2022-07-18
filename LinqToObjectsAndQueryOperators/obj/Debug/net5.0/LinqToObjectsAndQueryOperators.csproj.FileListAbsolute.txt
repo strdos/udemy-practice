@@ -1,0 +1,16 @@
+C:\Users\strdo\source\repos\UdemyPractice\LinqToObjectsAndQueryOperators\bin\Debug\net5.0\LinqToObjectsAndQueryOperators.exe
+C:\Users\strdo\source\repos\UdemyPractice\LinqToObjectsAndQueryOperators\bin\Debug\net5.0\LinqToObjectsAndQueryOperators.deps.json
+C:\Users\strdo\source\repos\UdemyPractice\LinqToObjectsAndQueryOperators\bin\Debug\net5.0\LinqToObjectsAndQueryOperators.runtimeconfig.json
+C:\Users\strdo\source\repos\UdemyPractice\LinqToObjectsAndQueryOperators\bin\Debug\net5.0\LinqToObjectsAndQueryOperators.runtimeconfig.dev.json
+C:\Users\strdo\source\repos\UdemyPractice\LinqToObjectsAndQueryOperators\bin\Debug\net5.0\LinqToObjectsAndQueryOperators.dll
+C:\Users\strdo\source\repos\UdemyPractice\LinqToObjectsAndQueryOperators\bin\Debug\net5.0\LinqToObjectsAndQueryOperators.pdb
+C:\Users\strdo\source\repos\UdemyPractice\LinqToObjectsAndQueryOperators\obj\Debug\net5.0\LinqToObjectsAndQueryOperators.csproj.AssemblyReference.cache
+C:\Users\strdo\source\repos\UdemyPractice\LinqToObjectsAndQueryOperators\obj\Debug\net5.0\LinqToObjectsAndQueryOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strdo\source\repos\UdemyPractice\LinqToObjectsAndQueryOperators\obj\Debug\net5.0\LinqToObjectsAndQueryOperators.AssemblyInfoInputs.cache
+C:\Users\strdo\source\repos\UdemyPractice\LinqToObjectsAndQueryOperators\obj\Debug\net5.0\LinqToObjectsAndQueryOperators.AssemblyInfo.cs
+C:\Users\strdo\source\repos\UdemyPractice\LinqToObjectsAndQueryOperators\obj\Debug\net5.0\LinqToObjectsAndQueryOperators.csproj.CoreCompileInputs.cache
+C:\Users\strdo\source\repos\UdemyPractice\LinqToObjectsAndQueryOperators\obj\Debug\net5.0\LinqToObjectsAndQueryOperators.dll
+C:\Users\strdo\source\repos\UdemyPractice\LinqToObjectsAndQueryOperators\obj\Debug\net5.0\refint\LinqToObjectsAndQueryOperators.dll
+C:\Users\strdo\source\repos\UdemyPractice\LinqToObjectsAndQueryOperators\obj\Debug\net5.0\LinqToObjectsAndQueryOperators.pdb
+C:\Users\strdo\source\repos\UdemyPractice\LinqToObjectsAndQueryOperators\obj\Debug\net5.0\LinqToObjectsAndQueryOperators.genruntimeconfig.cache
+C:\Users\strdo\source\repos\UdemyPractice\LinqToObjectsAndQueryOperators\obj\Debug\net5.0\ref\LinqToObjectsAndQueryOperators.dll
