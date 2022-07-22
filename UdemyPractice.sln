@@ -71,9 +71,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfCheckbox", "WpfCheckbox\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfZooManager", "WpfZooManager\WpfZooManager.csproj", "{F7D91A12-3B91-47E9-BB1C-14FC2E16C745}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq1", "Linq1\Linq1.csproj", "{198D7083-EF2D-4D22-98BF-B99DF28C8695}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq1", "Linq1\Linq1.csproj", "{198D7083-EF2D-4D22-98BF-B99DF28C8695}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToObjectsAndQueryOperators", "LinqToObjectsAndQueryOperators\LinqToObjectsAndQueryOperators.csproj", "{CF7835C9-E9AC-4FB0-93CF-6043AC224E5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqToObjectsAndQueryOperators", "LinqToObjectsAndQueryOperators\LinqToObjectsAndQueryOperators.csproj", "{CF7835C9-E9AC-4FB0-93CF-6043AC224E5A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqWithXML", "LinqWithXML\LinqWithXML.csproj", "{10273077-C39D-4A05-A4C3-C1ABF5B60C80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToSQL", "LinqToSQL\LinqToSQL.csproj", "{8C0C6DE3-15C7-4832-ABDF-5EEEE281141E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -225,6 +229,14 @@ Global
 		{CF7835C9-E9AC-4FB0-93CF-6043AC224E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF7835C9-E9AC-4FB0-93CF-6043AC224E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF7835C9-E9AC-4FB0-93CF-6043AC224E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10273077-C39D-4A05-A4C3-C1ABF5B60C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10273077-C39D-4A05-A4C3-C1ABF5B60C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10273077-C39D-4A05-A4C3-C1ABF5B60C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10273077-C39D-4A05-A4C3-C1ABF5B60C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C0C6DE3-15C7-4832-ABDF-5EEEE281141E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C0C6DE3-15C7-4832-ABDF-5EEEE281141E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C0C6DE3-15C7-4832-ABDF-5EEEE281141E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C0C6DE3-15C7-4832-ABDF-5EEEE281141E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

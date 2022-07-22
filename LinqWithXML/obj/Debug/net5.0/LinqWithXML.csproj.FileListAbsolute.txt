@@ -1,0 +1,16 @@
+C:\Users\strdo\source\repos\UdemyPractice\LinqWithXML\bin\Debug\net5.0\LinqWithXML.exe
+C:\Users\strdo\source\repos\UdemyPractice\LinqWithXML\bin\Debug\net5.0\LinqWithXML.deps.json
+C:\Users\strdo\source\repos\UdemyPractice\LinqWithXML\bin\Debug\net5.0\LinqWithXML.runtimeconfig.json
+C:\Users\strdo\source\repos\UdemyPractice\LinqWithXML\bin\Debug\net5.0\LinqWithXML.runtimeconfig.dev.json
+C:\Users\strdo\source\repos\UdemyPractice\LinqWithXML\bin\Debug\net5.0\LinqWithXML.dll
+C:\Users\strdo\source\repos\UdemyPractice\LinqWithXML\bin\Debug\net5.0\LinqWithXML.pdb
+C:\Users\strdo\source\repos\UdemyPractice\LinqWithXML\obj\Debug\net5.0\LinqWithXML.csproj.AssemblyReference.cache
+C:\Users\strdo\source\repos\UdemyPractice\LinqWithXML\obj\Debug\net5.0\LinqWithXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strdo\source\repos\UdemyPractice\LinqWithXML\obj\Debug\net5.0\LinqWithXML.AssemblyInfoInputs.cache
+C:\Users\strdo\source\repos\UdemyPractice\LinqWithXML\obj\Debug\net5.0\LinqWithXML.AssemblyInfo.cs
+C:\Users\strdo\source\repos\UdemyPractice\LinqWithXML\obj\Debug\net5.0\LinqWithXML.csproj.CoreCompileInputs.cache
+C:\Users\strdo\source\repos\UdemyPractice\LinqWithXML\obj\Debug\net5.0\LinqWithXML.dll
+C:\Users\strdo\source\repos\UdemyPractice\LinqWithXML\obj\Debug\net5.0\refint\LinqWithXML.dll
+C:\Users\strdo\source\repos\UdemyPractice\LinqWithXML\obj\Debug\net5.0\LinqWithXML.pdb
+C:\Users\strdo\source\repos\UdemyPractice\LinqWithXML\obj\Debug\net5.0\LinqWithXML.genruntimeconfig.cache
+C:\Users\strdo\source\repos\UdemyPractice\LinqWithXML\obj\Debug\net5.0\ref\LinqWithXML.dll
