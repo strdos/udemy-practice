@@ -30,12 +30,13 @@ namespace LinqToSQL
             dataContext = new LinqToSqlDataClassesDataContext(connectionString);
 
             //InsertUniversities();
-            //InsertStudents();
+            InsertStudents();
             //InsertLectures();
             //InsertStudentLectureAssociations();
             //GetUniversityOfToni();
             //GetLecturesOfToni();
-            GetAllStudentsFromYale();
+            //GetAllStudentsFromYale();
+            UpdateToni();
         }
 
         public void InsertUniversities()
@@ -117,6 +118,13 @@ namespace LinqToSQL
         {
             var studentsFromYale = from student in dataContext.Students where student.University.Name == "Yale" select student;
             MainDataGrid.ItemsSource = studentsFromYale;
-        }        
+        }
+        public void UpdateToni()
+        {
+            Student Toni = dataContext.Students.FirstOrDefault(st => st.Name == "Toni");
+            Toni.Name = "Antonio";
+            dataContext.SubmitChanges();
+            MainDataGrid.ItemsSource = dataContext.Students;
+        }
     }
 }
